@@ -18,7 +18,16 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
+~~~
+a=int(input())
+b=int(input())
+a=temp
+a=b
+b=temp
+print(a,b)
+~~~
+## OUTPUT
+![Swapping values](EX1 sw.png)
 
 
 ## RESULT:
