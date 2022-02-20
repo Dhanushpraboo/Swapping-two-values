@@ -27,7 +27,7 @@ b=temp
 print(a,b)
 ~~~
 ## OUTPUT
-![Swappingvalues](EX1sw.png)
+![Swappingvalues](EX1sw.jpg)
 
 
 ## RESULT:
